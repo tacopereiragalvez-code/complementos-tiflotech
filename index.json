@@ -1,17 +1,17 @@
 {
   "version": "1.0",
-  "actualizado": "2026-09-20",
+  "actualizado": "2026-09-21",
   "autor": "Eus Pereira",
   "comunidad": "TifloTech",
   "complementos": [
     {
-      "id": "ejemplo-1",
-      "nombre": "Complemento de Ejemplo",
-      "descripcion": "Este es un ejemplo. Reemplázalo por tus complementos reales.",
+      "id": "prueba",
+      "nombre": "Complemento de Prueba",
+      "descripcion": "Archivo de prueba para verificar la tienda TifloTech",
       "version": "1.0",
       "autor": "TifloTech",
-      "archivo": "ejemplo.lua",
-      "tamano": "5 KB"
+      "archivo": "prueba.lua",
+      "tamano": "1 KB"
     }
   ]
 }
