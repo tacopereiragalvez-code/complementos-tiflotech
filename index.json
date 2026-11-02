@@ -1,17 +1,27 @@
 {
-  "version": "1.0",
-  "actualizado": "2026-09-21",
-  "autor": "Eus Pereira",
-  "comunidad": "TifloTech",
-  "complementos": [
-    {
-      "id": "prueba",
-      "nombre": "Complemento de Prueba",
-      "descripcion": "Archivo de prueba para verificar la tienda TifloTech",
-      "version": "1.0",
-      "autor": "TifloTech",
-      "archivo": "prueba.lua",
-      "tamano": "1 KB"
-    }
-  ]
+  "TifloTech Súper Reproductor.ppk": {
+    "descripcion": "Reproductor multimedia con soporte de audio y video.",
+    "fecha": "2026-06-13",
+    "descargas": 0
+  },
+  "TifloTech TV Player.ppk": {
+    "descripcion": "Complemento para reproducir canales de TV en vivo.",
+    "fecha": "2026-06-13",
+    "descargas": 0
+  },
+  "TifloTech enlaces generales.ppk": {
+    "descripcion": "Menú con enlaces de interés general de la comunidad.",
+    "fecha": "2026-06-13",
+    "descargas": 0
+  },
+  "Traductor TifloTech.ppk": {
+    "descripcion": "Herramienta para traducir texto rápidamente.",
+    "fecha": "2026-06-13",
+    "descargas": 0
+  },
+  "enlaces oficiales de tiflotech 2.0.ppk": {
+    "descripcion": "Enlaces oficiales actualizados de TifloTech.",
+    "fecha": "2026-06-13",
+    "descargas": 0
+  }
 }
