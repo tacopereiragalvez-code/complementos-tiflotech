@@ -39,5 +39,8 @@
   "Dictado TifloTech PRO.ppk": {
     "fecha": "2026-11-17",
     "descripcion": "**Actualización: Dictado TifloTech Pro 2.4 y Dictado Pixel**\n\nComunidad TifloTech, creado por Eus Pereira.\n\n**Qué se corrigió**\n\nVarios usuarios reportaron que, al dictar, el teléfono pasaba del modo vibración al modo sonido. Ya está solucionado en los dos complementos.\n\nEl problema venía del silencio del pitido del micrófono de Google. Al restaurar el volumen al terminar, el teléfono quedaba en modo sonido, incluso con el sonido del complemento desactivado.\n\n**Cómo funciona ahora**\n\n- Si tu teléfono está en vibración o en silencio, el complemento ya no toca esos volúmenes.\n- Si está en modo sonido, el silencio del pitido sigue funcionando igual que antes.\n- Al terminar de dictar, tu modo de timbre se mantiene como lo tenías.\n\n**Qué debes hacer**\n\nReemplaza el archivo de cada complemento por la nueva versión. Dictado TifloTech Pro pasa a la versión 2.4 y mostrará una nota al abrirse.\n\nGracias a todos los que reportaron el problema,\n\nComo siempre, ya disponible de la tienda de complementos. Más información, dudas y actualizaciones en nuestro canal de Telegram:\nhttps:\/\/t.me\/+9BSDLN5zkkUzODNh"
+  },
+  "Selfie cámara Parlante tiflotech.ppk": {
+    "fecha": "2026-11-17"
   }
 }
