@@ -83,7 +83,8 @@
   "tiflotech Media player.ppk": {
     "fecha": "2026-11-17",
     "descripcion": "Sin descripcionnueva actualización. \n**TifloTech Media Player**\nVersión 3\nPor: Eus Pereyra | Comunidad TifloTech\n\nNovedades de esta versión:\n\n**Nueva opción: decir o no el título al cambiar de canción**\nAlgunos usuarios que escuchan con parlantes Bluetooth nos pidieron que el reproductor no hable al pasar de una canción a otra. Ahora puedes elegirlo tú.\n\n- La opción está en **Más opciones**, con el nombre «Decir el título al cambiar de canción: Sí\/No».\n- Con **No**, el reproductor no dice nada al pasar a la siguiente o a la anterior, cuando una canción termina sola y empieza otra, ni cuando eliges un archivo de una lista. Funciona igual con videos.\n- Con **Sí**, todo sigue como antes. Así viene por defecto.\n- Tu elección se guarda y se mantiene la próxima vez que abras el complemento.\n\nYa disponible en la tienda de complementos.\n\nÚnete a nuestro canal de Telegram para recibir contenido de este y de otros complementos:\nhttps:\/\/t.me\/+9BSDLN5zkkUzODNh\n\n\nIgual lo puedes solicitar en nuestro grupo de WhatsApp. https:\/\/chat.whatsapp.com\/J1MpiAU4n10AgPoIPVxC0U",
-    "tamano": "42789"
+    "tamano": "42789",
+    "contador": "0"
   },
   "TifloTech Vaciar chat de WhatsApp.ppk": {
     "fecha": "2026-11-17",
@@ -97,12 +98,14 @@
     "descripcion": "¡Hola a todos! Ya está disponible la tercera versión importante de Súper TTS Studio TifloTech, el potente complemento para la creación, edición y conversión de audio desarrollado por Eus Pereira y la Comunidad TifloTech.\n\n🌟 La gran novedad: Integración de Speechify\n\nAdemás de las voces de Google Gemini, esta nueva versión integra Speechify, un potente motor de inteligencia artificial alternativo que destaca por:\n\nVoces ultra-realistas de gran calidad (con modelos Simba).\n\nSoporte para múltiples idiomas y hasta 8 hablantes distintos en tus textos.\n\nUn amplio cupo gratuito y control avanzado de estilos, velocidad y tonos.\n\n📚 Tutoriales disponibles para configurar tus claves\n\nPara empezar a utilizar ambas inteligencias artificiales sin complicaciones, dispones de dos tutoriales en video paso a paso:\n\nTutorial Clave de Gemini: Ver en YouTube (Cómo obtener tu API Key en Google AI Studio).\n\nTutorial Clave de Speechify: Ver en YouTube (Cómo configurar tu acceso en la plataforma de Speechify).\n\nTodo ello se suma a las funciones ya conocidas: motor del sistema sin conexión, grabación de voz con pistas de fondo, inserción de música y efectos de sonido en momentos exactos, recorte, unión de audios, exportación a M4A y creación de videos con imágenes.\n\n¡Todo organizado en una sola carpeta para que disfrutes al máximo de tu contenido!\n\n\n\nComo siempre, ya disponible en la tienda de complementos, y cualquier duda o comentario,  y nuevas actualizaciones, y más visita nuestro canal de Telegram.  https:\/\/t.me\/+9BSDLNSin descripcion",
     "tutorial": "tutoriales\/s__per_TTS_Studio_TifloTech.wav",
     "tamano": "97999",
-    "novedades": ""
+    "novedades": "",
+    "contador": "0"
   },
   "grabar y enviar notas Tiflotech.ppk": {
     "fecha": "2026-11-18",
     "actualizado": "1794984414",
-    "tamano": "1104"
+    "tamano": "1104",
+    "contador": "0"
   },
   "Mi Grabadora TifloTech Pro Elite.ppk": {
     "descripcion": "Sin descripcion​¡Hola a todos! Se ha liberado una corrección para el complemento. Mi Grabadora TifloTech Pro Elite\n​Si tenías problemas porque al pulsar \"Ver Carpeta de Grabaciones\" no pasaba nada o no abría la ubicación del audio, ¡ya está solucionado! Reprogramamos el método de apertura para que utilice la acción oficial de Android, garantizando que entres directo a tu carpeta Grabaciones_TifloTech. Además, aplicamos pequeñas correcciones de sintaxis para que el código corra más fluido y sin fallos.\nDesarrollado por Eus Pereira \n ¡Gracias por formar parte de la comunidad!\nTiflotech https:\/\/t.me\/+9BSDLN5zkkUzODNh",
